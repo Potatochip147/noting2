@@ -10,21 +10,21 @@ async def upgrade(bot,update):
 	
 	**VIP 1 ** 
 	Daily Upload  Limit 10GB
-	Price Rs 55  🇮🇳/🌎 0.67$  per Month
+	Price Rs 09  🇮🇳/🌎 0.11$  per Month
 	
 	**VIP 2 **
 	Daily Upload Limit 50GB
-	Price Rs 80  🇮🇳/🌎 0.97$  per Month
+	Price Rs 49  🇮🇳/🌎 0.60$  per Month
 
 	UPI 🆔 Details
 
-        Google pay 📲 joynathnet4@oksbi
-        Phonepe 📲 bijoy.nath@ybl
+        Google pay 📲 jishusinha96-1@oksbi
+        Phonepe 📲 madflixofficial@axl
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("👮 Admin", url = "https://t.me/pr0fess0r99")], 
+        			InlineKeyboardButton("👮 Admin", url = "https://t.me/Madflix_Officials")], 
         			[InlineKeyboardButton("Cancel ✖️", callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
@@ -37,21 +37,21 @@ async def upgradecm(bot,message):
 	
 	**VIP 1 ** 
 	Daily Upload  Limit 10GB
-	Price Rs 55  🇮🇳/🌎 0.67$  per Month
+	Price Rs 09  🇮🇳/🌎 0.11$  per Month
 	
 	**VIP 2 **
 	Daily Upload Limit 50GB
-	Price Rs 80  🇮🇳/🌎 0.97$  per Month
+	Price Rs 49  🇮🇳/🌎 0.60$  per Month
 
 	UPI 🆔 Details
 
-        Google pay 📲 joynathnet4@oksbi
-        Phonepe 📲 bijoy.nath@ybl
+        Google pay 📲 jishusinha96-1@oksbi
+        Phonepe 📲 madflixofficial@axl
 	
 	After Payment Send Screenshots Of 
         Payment To Admin"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("👮 Admin", url = "https://t.me/pr0fess0r99")], 
+        			InlineKeyboardButton("👮 Admin", url = "https://t.me/Madflix_Officials")], 
         			[InlineKeyboardButton("Cancel ✖️", callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
